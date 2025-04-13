@@ -68,3 +68,4 @@
 /Users/adil/Downloads/newdelta/dotnetta/aichatdotnet/obj/Debug/net8.0/aichatdotnet.pdb
 /Users/adil/Downloads/newdelta/dotnetta/aichatdotnet/obj/Debug/net8.0/aichatdotnet.genruntimeconfig.cache
 /Users/adil/Downloads/newdelta/dotnetta/aichatdotnet/obj/Debug/net8.0/ref/aichatdotnet.dll
+/Users/adil/Downloads/newdelta/dotnetta/aichatdotnet/obj/Debug/net8.0/aichatdotnet.sourcelink.json
