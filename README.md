@@ -59,11 +59,11 @@ This chatbot app allows users to input prompts via a chat interface. These promp
 3. **Start The Backend**
    ```bash
    cd aichatdotnet
-   dotnet build
    dotnet run
 
 4. **Start The Frontend in new Terminal**
    ```bash
+   cd dotnetGenAiChatbot
    cd nextdotnetfrontend
    npm install
    npm run dev
